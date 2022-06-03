@@ -1,0 +1,6 @@
+registration
+email - passed
+twitter - failed
+authorization
+activate user - passed
+deactivate user - failed
